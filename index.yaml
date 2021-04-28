@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   namespace-node-affinity:
   - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-04-28T03:25:08.3293606+02:00"
+    description: A Helm chart for Kubernetes
+    digest: b4bca2433886a65129d64a3f0740798e9550f5d4cfb98de14325fe55f475635e
+    name: namespace-node-affinity
+    type: application
+    urls:
+    - https://github.com/frog-network/namespace-node-affinity/releases/download/namespace-node-affinity-0.1.1/namespace-node-affinity-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-04-28T02:27:43.7534889+02:00"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/frog-network/namespace-node-affinity/releases/download/namespace-node-affinity-0.1.0/namespace-node-affinity-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-28T02:27:43.7534889+02:00"
+generated: "2021-04-28T03:25:08.3303655+02:00"
