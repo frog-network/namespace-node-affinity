@@ -5,6 +5,7 @@ commonLabels:
   app: namespace-node-affinity
 
 resources:
+- namespace.yaml
 - deployment.yaml
 - role.yaml
 - rolebinding.yaml

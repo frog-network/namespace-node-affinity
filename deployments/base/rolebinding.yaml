@@ -5,7 +5,7 @@ metadata:
 subjects:
 - kind: ServiceAccount
   name: namespace-node-affinity
-  namespace: default
+  namespace: namespace-node-affinity
   apiGroup: ""
 roleRef:
   kind: ClusterRole

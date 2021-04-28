@@ -2,4 +2,4 @@ apiVersion: v1
 kind: ServiceAccount
 metadata:
   name: namespace-node-affinity
-  namespace: default
+  namespace: namespace-node-affinity
